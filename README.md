@@ -1,7 +1,8 @@
 # Planora
-An AI Companion for Everyday Student Life
 
-Planora is a lightweight AI-powered planning assistant designed to help college students to manage academics, careers, mental well-being, campus life, and time/financial planning — all from one simple interface.
+An AI Companion for Everyday Student Life in India
+
+Planora is a lightweight AI-powered planning assistant designed to help college students in India to manage academics, careers, mental well-being, campus life, and time/financial planning — all from one simple interface.
 🎯 Problem 
 
 Indian college students often struggle with:
