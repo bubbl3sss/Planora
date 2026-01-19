@@ -76,7 +76,7 @@ student_profile = {
 }
 
 
-st.header("📝 Your subjects")
+st.header("Your subjects")
 
 num_tasks = st.number_input(
     "How many subjects do you want to plan for?",
@@ -134,11 +134,11 @@ if st.button("✨ Generate my study plan"):
     else:
         final_plan = prioritize_tasks(tasks_df, student_profile)
 
-        st.header("📊 Your personalised plan")
+        st.header("Your personalised plan")
 
         st.dataframe(prettify_df(final_plan), use_container_width=True)
 
-        st.header("💡 How to read this")
+        st.header(" How to read this")
         st.write(
             """
             Subjects at the top deserve your attention first.
