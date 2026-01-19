@@ -8,7 +8,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("📚 Planora")
+st.title("Planora")
 st.caption("An AI-powered study planner that adapts to your energy, time, and deadlines")
 
 
@@ -53,7 +53,7 @@ def prettify_df(df):
 
 
 
-st.header("🧠 Your current state")
+st.header("Your current state")
 
 energy_level = st.slider(
     "How’s your energy right now?",
