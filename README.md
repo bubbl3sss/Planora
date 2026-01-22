@@ -81,4 +81,4 @@ No large datasets.
  
  Low compute, high impact.
  
-Live Link : https://planora-gutsefvfds7mrddedxsydk.streamlit.app/
+Live Link : https://planora-9deqvrxo9adfkrtqw7z54u.streamlit.app/
